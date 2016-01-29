@@ -1,8 +1,12 @@
 *This file contains any relevant information needed for future reference or research*
 
-**Accessing Netflix API**
-* http://pyflix2.readthedocs.org/en/latest/
-* https://github.com/amalakar/pyflix2
+<s> **Accessing Netflix API** </s>
+<ul>
+<li><s> http://pyflix2.readthedocs.org/en/latest/ </s> </li> 
+<li><s> https://github.com/amalakar/pyflix2 </s> </li>
+</ul>
+*LOL jk.. Netflix doesn't have a public API anymore* :sob:
+
 
 
 **Web App dev using Python**
